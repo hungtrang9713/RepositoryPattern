@@ -1,0 +1,11 @@
+C:\Users\trangbh\source\repos\RepositoryPattern\Service\bin\Debug\Service.dll
+C:\Users\trangbh\source\repos\RepositoryPattern\Service\bin\Debug\Service.pdb
+C:\Users\trangbh\source\repos\RepositoryPattern\Service\bin\Debug\Model.dll
+C:\Users\trangbh\source\repos\RepositoryPattern\Service\bin\Debug\Repository.dll
+C:\Users\trangbh\source\repos\RepositoryPattern\Service\bin\Debug\Model.pdb
+C:\Users\trangbh\source\repos\RepositoryPattern\Service\bin\Debug\Repository.pdb
+C:\Users\trangbh\source\repos\RepositoryPattern\Service\obj\Debug\Service.csprojAssemblyReference.cache
+C:\Users\trangbh\source\repos\RepositoryPattern\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\Users\trangbh\source\repos\RepositoryPattern\Service\obj\Debug\Service.csproj.CopyComplete
+C:\Users\trangbh\source\repos\RepositoryPattern\Service\obj\Debug\Service.dll
+C:\Users\trangbh\source\repos\RepositoryPattern\Service\obj\Debug\Service.pdb
